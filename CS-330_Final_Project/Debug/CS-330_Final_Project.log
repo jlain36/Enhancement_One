@@ -1,0 +1,17 @@
+﻿  CS-330_Final_Project.cpp
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(26,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(473,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(663,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(664,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(668,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(669,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(676,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(677,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(687,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(2519,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(2523,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(2638,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(2644,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CS-330_Final_Project.vcxproj -> C:\Users\jlain\source\repos\CS-330_Final_Project\Debug\CS-330_Final_Project.exe
