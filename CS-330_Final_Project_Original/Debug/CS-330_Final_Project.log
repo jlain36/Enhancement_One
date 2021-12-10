@@ -1,0 +1,14 @@
+﻿  CS-330_Final_Project.cpp
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(413,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(593,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(594,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(598,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(599,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(607,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(608,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(617,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(2143,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(2147,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(2262,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jlain\source\repos\CS-330_Final_Project\CS-330_Final_Project.cpp(2268,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  CS-330_Final_Project.vcxproj -> C:\Users\jlain\source\repos\CS-330_Final_Project\Debug\CS-330_Final_Project.exe
